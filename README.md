@@ -34,6 +34,8 @@ Ultraviolet:
 
 [Ultraviolet Proxy 7](https://baloombaisabot.com/ultraviolet.html)
 
+[Ultraviolet Proxy 8](https://ultraviolet-node-7.thebm.repl.co)
+
 
 
 Incognito:
