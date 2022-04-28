@@ -61,8 +61,3 @@ Other:
 [Other Proxy 3](https://pewdiepieisprettydarncool.gq/)
 
 
-[Tiktok.com](https://www.tiktok.com)
-
-
-
-
