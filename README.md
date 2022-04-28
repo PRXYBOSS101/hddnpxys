@@ -14,7 +14,11 @@ Multi Tab:
 
 [Multi Tab Proxy 1](https://amongussussybaka.org/choice)
 
-[Hypertab Proxy](https://thingsnetwork.xyz/)
+[Hypertab Proxy 1](https://thingsnetwork.xyz/)
+
+[Hypertab Proxy 2](https://husux.xyz/)
+
+[Hypertab Proxy 3](https://ibosscloud.space/)
 
 
 
