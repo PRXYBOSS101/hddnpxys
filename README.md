@@ -38,6 +38,8 @@ Ultraviolet:
 
 [Ultraviolet Proxy 9](spotsstuff.ml)
 
+[Ultraviolet Proxy 10](holyspots.ml)
+
 
 
 Incognito:
