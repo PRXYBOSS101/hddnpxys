@@ -36,9 +36,9 @@ Ultraviolet:
 
 [Ultraviolet Proxy 8](https://ultraviolet-node-7.thebm.repl.co)
 
-[Ultraviolet Proxy 9](spotsstuff.ml)
+[Ultraviolet Proxy 9](https://spotsstuff.ml)
 
-[Ultraviolet Proxy 10](holyspots.ml)
+[Ultraviolet Proxy 10](https://holyspots.ml)
 
 
 
