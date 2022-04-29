@@ -12,7 +12,7 @@ Single Tab:
 
 Multi Tab:
 
-[Multi Tab Proxy 1](https://amongussussybaka.org/choice)
+[Multi Tab Proxy 1](https://cloudflare.rammerhead.org/)
 
 [Hypertab Proxy 1](https://thingsnetwork.xyz/)
 
