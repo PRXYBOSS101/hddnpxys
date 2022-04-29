@@ -18,7 +18,7 @@ Multi Tab:
 
 [Hypertab Proxy 2](https://husux.xyz/)
 
-[Hypertab Proxy 3](https://ibosscloud.space/)
+[Hypertab Proxy 3](https://reapir.net/)
 
 
 
